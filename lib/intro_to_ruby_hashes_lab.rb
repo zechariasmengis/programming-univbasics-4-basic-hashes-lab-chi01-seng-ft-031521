@@ -3,7 +3,10 @@ def new_hash
 end
 
 def my_hash
-  
+  monkas = {
+    pog: "pogerino"
+  }
+  return monkas
 end
 
 def pioneer
